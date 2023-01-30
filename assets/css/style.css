@@ -13,12 +13,12 @@ body {
   background-color: #040404;
   color: #fff;
   position: relative;
-  background: transparent;
+
 }
 body::before {
   content: "";
   position: fixed;
-  background: #040404 url("../img/max-bg-1.png") top right no-repeat;
+  background-image:url("../img/max-bg-1.png") ;
   /* background-size:25%; */
 background-size: contain;
   background-repeat: no-repeat;
