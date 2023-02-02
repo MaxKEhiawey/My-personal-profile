@@ -4,7 +4,6 @@
 * Author: BootstrapMade.com
 * License: https://bootstrapmade.com/license/
 */
-
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
@@ -221,7 +220,6 @@ h1, h2, h3, h4, h5, h6 {
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
   color: #fff;
 }
-
 /**
 * Mobile Navigation 
 */
@@ -236,7 +234,6 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   top: 15px;
 }
-
 @media (max-width: 991px) {
   .mobile-nav-toggle {
     display: block;
