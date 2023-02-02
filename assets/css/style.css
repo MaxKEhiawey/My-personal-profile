@@ -13,12 +13,13 @@ body {
   background-color: #040404;
   color: #fff;
   position: relative;
-
+  background: transparent;
 }
 body::before {
   content: "";
   position: fixed;
-  background-image:url("../img/max-bg-1.png") ;
+  background:linear-gradient(4deg, rgba(0, 0, 0, 0.95), rgba(0, 0, 0, 0.4)), url("../img/max-bg-1.png");
+  /* background: #040404 url("../img/max-bg-1.png") top right no-repeat; */
   /* background-size:25%; */
 background-size: contain;
   background-repeat: no-repeat;
