@@ -1,0 +1,80 @@
+body {
+  font-family: "Open Sans", sans-serif;
+  background-color: #313131;
+  color: #fff;
+  position: relative;
+}
+
+a {
+  color: #18d26e;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #35e888;
+  text-decoration: none;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Raleway", sans-serif;
+}
+
+.privacy-policy {
+  width: 100%;
+}
+
+.privacy-policy .header {
+  background-color: black;
+  padding: 2em 4em;
+}
+
+.privacy-policy .header a {
+  letter-spacing: 0.1em;
+}
+
+.privacy-policy .header h2 {
+  margin: 0.5em 0;
+}
+
+.privacy-policy .header p {
+  color: #8d8c8c;
+}
+
+.privacy-policy main.content {
+  padding: 2em 4em;
+}
+
+.privacy-policy main.content p {
+  font-size: 0.9rem;
+  letter-spacing: 0.08em;
+  color: white;
+}
+
+.privacy-policy main.content h2 {
+  font-size: 1.5rem;
+  letter-spacing: 0.08em;
+  color: white;
+  font-weight: bolder;
+  margin: 1.2em 0;
+}
+
+.privacy-policy main.content h3 {
+  font-size: 1rem;
+  letter-spacing: 0.08em;
+  color: white;
+  font-weight: bold;
+}
+
+.email a {
+  margin-left: 0.4em;
+}
+
+p.address {
+  font-size: 0.8rem !important;
+  color: #d2d2d2 !important;
+}
